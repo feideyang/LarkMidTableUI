@@ -57,6 +57,8 @@ npm install [ 慢的话用  npm install --registry https://registry.npm.taobao.o
 npm run build:prod
 ```
 
+<!--
+
 # 技术交流
 
 
@@ -68,3 +70,4 @@ npm run build:prod
 
 
 ![QQ群：](https://img2020.cnblogs.com/blog/622382/202009/622382-20200907124358049-997953244.png)
+-->
